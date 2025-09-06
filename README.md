@@ -17,4 +17,4 @@ Los resultados se presentarán en un **dashboard en Power BI**, con:
 - `powerbi/` → archivo del dashboard (pendiente).
 
 ---
-📌 *Proyecto en desarrollo para portafolio de Data Analyst.*
+📌 *Proyecto en desarrollo *
