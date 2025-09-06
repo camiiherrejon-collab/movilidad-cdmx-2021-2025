@@ -1,0 +1,6 @@
+# Ignorar carpeta data completa
+data/
+
+# Ignorar README
+README.md
+
